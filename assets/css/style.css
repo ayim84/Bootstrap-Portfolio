@@ -1,0 +1,38 @@
+body{
+    background-image:url("../images/qbkls.png")
+}
+
+h2{
+    color: #4aaaa5;
+}
+
+.header{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.name{
+    background-color:#4aaaa5;
+    padding:20px;
+    color:#ffffff !important;
+    font-size:32px;
+}
+
+.about-me{
+    background-color:#ffffff;
+    padding:20px;
+    margin-top:20px;
+}
+
+.about-me-content{
+    margin-top:20px;
+}
+
+.head-shot{
+    float:left;
+    margin-right:20px;
+}
+
+p{
+    line-height:2;
+    color:#777777;
+}
