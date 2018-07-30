@@ -17,7 +17,7 @@ h2{
     font-size:32px;
 }
 
-.about-me{
+.body-content{
     background-color:#ffffff;
     padding:20px;
     margin-top:20px;
@@ -35,4 +35,14 @@ h2{
 p{
     line-height:2;
     color:#777777;
+}
+
+.row{
+    padding: 15px 0px;
+}
+
+.project-title{
+    background-color:#4aaaa5;
+    text-align:center;
+    padding:10px 0;
 }
